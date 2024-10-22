@@ -3,9 +3,8 @@
 A .NET Developer specialized in MVC and Web API, passionate about crafting scalable and efficient web applications.
 </p>
 
-<p align="center">
-  <img src="(https://drive.google.com/file/d/1MNZ8umI2-kCI5JO3CYTDnlhbsc_iuli7/view?usp=drive_link)">
-</p>
+![dotnet_openings_cover](https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb)
+
 
 ### 🌱 I’m currently learning:
 - Angular || ASP.NET Core
