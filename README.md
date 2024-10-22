@@ -4,7 +4,7 @@ A .NET Developer specialized in MVC and Web API, passionate about crafting scala
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=.NET+Developer+Profile+Banner" alt="Profile Banner">
+  <img src="(https://drive.google.com/file/d/1MNZ8umI2-kCI5JO3CYTDnlhbsc_iuli7/view?usp=drive_link)">
 </p>
 
 ### 🌱 I’m currently learning:
