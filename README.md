@@ -16,7 +16,7 @@ A .NET Developer specialized in MVC and Web API, passionate about crafting scala
 ### 📫 How to reach me: abdeltawababdallah573@gmail.com
 
 ### 📄 Know more about my experiences:
-- [Resume](https://drive.google.com/file/d/1ozeBhcB4bpRjtxjl4MonVfcldFD05Ccp/view?usp=sharing))
+- [https://drive.google.com/file/d/1ozeBhcB4bpRjtxjl4MonVfcldFD05Ccp/view?usp=sharing](https://drive.google.com/file/d/1ozeBhcB4bpRjtxjl4MonVfcldFD05Ccp/view?usp=sharing)
 
 ### ⚡ Fun fact:
 - I aim to excel in full stack .NET development!
