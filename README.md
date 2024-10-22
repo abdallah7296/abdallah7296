@@ -15,7 +15,7 @@ A .NET Developer specialized in MVC and Web API, passionate about crafting scala
 
 ### 📫 How to reach me: abdeltawababdallah573@gmail.com
 
-<p align="right">
+<div style="flex: 0; margin-left: 20px;">
   <img src="https://github.com/user-attachments/assets/810ac52a-8cb1-4cca-a58e-df0e15f650db" alt="Alt Text" width="400">
 </p>
 
