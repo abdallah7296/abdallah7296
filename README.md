@@ -7,19 +7,17 @@ A .NET Developer specialized in MVC and Web API, passionate about crafting scala
 
 
 ### 🌱 I’m currently learning:
-- Angular || ASP.NET Core
+- ASP.NET Core Web API & MVC
 
 ### 💬 Ask me about:
-- Full Stack Development
+- .Net Development
 - ASP.NET MVC, Web API, and .NET Core
 
-### 📫 How to reach me:
-- **Email:** abdeltawababdallah573@gmail.com
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/abdallah-abdeltawab-54b58b226)
+### 📫 How to reach me: abdeltawababdallah573@gmail.com
 
 ![CMP2025](https://example.com/path-to-your-image.png)
 
-### 📂 Know more about my experiences:
+### 📄 Know more about my experiences:
 - [Resume](https://drive.google.com/file/d/1ozeBhcB4bpRjtxjl4MonVfcldFD05Ccp/view?usp=sharing))
 
 ### ⚡ Fun fact:
@@ -28,7 +26,6 @@ A .NET Developer specialized in MVC and Web API, passionate about crafting scala
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdallah-abdeltawab-54b58b226)
 
-![Technologies](https://example.com/technologies-image.png)
 
 ## Languages and Tools:
 ![C#](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=csharp&logoColor=white)
