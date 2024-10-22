@@ -27,7 +27,7 @@ A .NET Developer specialized in MVC and Web API, passionate about crafting scala
 
 ![Technologies](https://example.com/technologies-image.png)
 
-## Languages and Tools:
+## 🛠 Languages and Tools:
 ![C#](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-purple?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-blue?style=for-the-badge&logo=dotnet&logoColor=white)
