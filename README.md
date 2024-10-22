@@ -1,7 +1,11 @@
-# Hi 👋, I'm Abdallah Mahmoud
+<h1 align="center">Hi 👋, I'm Abdallah Abdeltawab Mahmoud</h1>
+<p align="center">
 A .NET Developer specialized in MVC and Web API, passionate about crafting scalable and efficient web applications.
+</p>
 
-![Profile Banner](https://raw.githubusercontent.com/abdallah7296/repository/main/.Net.webp)
+<p align="center">
+  <img src="https://via.placeholder.com/1200x400?text=.NET+Developer+Profile+Banner" alt="Profile Banner">
+</p>
 
 ### 🌱 I’m currently learning:
 - Angular || ASP.NET Core
