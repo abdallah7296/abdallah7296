@@ -17,7 +17,11 @@
 - **Email**: abdeltawababdallah573@gmail.com
 
 ### 📄 Know more about my experiences:
-- [**Resume**](https://drive.google.com/file/d/1ozeBhcB4bpRjtxjl4MonVfcldFD05Ccp/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ozeBhcB4bpRjtxjl4MonVfcldFD05Ccp/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive" alt="Resume" />
+  </a>
+</p>
 
 ### ⚡ Fun fact:
 - I aim to excel in full stack .NET development!
