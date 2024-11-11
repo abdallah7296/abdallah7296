@@ -3,7 +3,7 @@
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb" width="300" height="150" alt="dotnet openings cover" />
+  <img src="https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb"  height="150" alt="dotnet openings cover" />
 </div>
 
 
