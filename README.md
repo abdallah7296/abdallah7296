@@ -2,7 +2,10 @@
 <h1 align="center"> Backend developer .Net || <br> Software Engineer || Competitive Programmer || <br> Instructor at Mentor </h1>
 
 
-![dotnet_openings_cover](https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb" width="300" height="150" alt="dotnet openings cover" />
+</div>
+
 
 
 ### 🌱 I’m currently learning:
