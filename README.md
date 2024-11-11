@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdallah Abdeltawab Mahmoud</h1>
-<p align="center">
-A .NET Developer specialized in MVC and Web API, passionate about crafting scalable and efficient web applications.
-</p>
+<h1 align="center"> Backend developer .Net || <br> Software Engineer || Competitive Programmer || <br> Instructor at Mentor </h1>
+
 
 ![dotnet_openings_cover](https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb)
 
