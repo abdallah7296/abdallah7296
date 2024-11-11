@@ -2,7 +2,7 @@
 <h2 align="center">Backend Developer .Net || Software Engineer || Competitive Programmer || Instructor at Mentor</h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb" style="width: 100%; height: 100px;" alt="dotnet openings cover" />
+  <img src="https://github.com/user-attachments/assets/772cb46a-8dec-4bb0-bd15-c68ca56563bb" style="width: 100%; height: 150px;" alt="dotnet openings cover" />
 </div>
 
 
